@@ -1,0 +1,6 @@
+{
+  "name": "ENGFlow — Aprendizado Equilibrado de Inglês",
+  "description": "Protótipo funcional mobile-first do ENGFlow: rotina de estudos balanceada em 4 habilidades (Listening, Reading, Speaking, Writing), timer temporal e acompanhamento de consistência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
